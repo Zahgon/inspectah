@@ -33,5 +33,8 @@ cmd/inspectah/inspector.test
 /inspectah
 /inspectah-*
 
+!/inspectah-core/
+!/inspectah-render/
+
 # Test artifacts
 *.actual.json

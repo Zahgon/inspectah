@@ -1,0 +1,3 @@
+[workspace]
+members = ["inspectah-core", "inspectah-render"]
+resolver = "2"
